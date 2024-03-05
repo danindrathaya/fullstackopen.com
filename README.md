@@ -5,6 +5,7 @@ Muhammad Danindra Athaya - 120510233010
 
 # 0.4
 sequenceDiagram
+
     participant browser
     participant server
 
