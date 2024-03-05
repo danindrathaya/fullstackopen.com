@@ -4,7 +4,9 @@ fullstackopen.com exercises
 Muhammad Danindra Athaya - 120510233010
 
 # 0.4
-sequenceDiagram
+Create a similar diagram depicting the situation where the user creates a new note on the page
+ 
+    sequenceDiagram
 
     participant browser
     participant server
