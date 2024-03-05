@@ -4,7 +4,7 @@ fullstackopen.com exercises
     Muhammad Danindra Athaya - 120510233010
 
 # 0.4
-Create a similar diagram depicting the situation where the user creates a new note on the page
+Create a similar diagram depicting the situation where the user creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking the Save button.
  
     sequenceDiagram
 
