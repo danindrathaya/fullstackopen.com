@@ -14,6 +14,7 @@ Create a similar diagram depicting the situation where the user creates a new no
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/new_note
     activate server
     server-->>browser: HTTP status code 302 Found
+    diactivate server
 
     Note right of browser: 'It is an HTTP POST request to the server address new_note. <br> The server responds with HTTP status code 302. This is a URL redirect, with which the server asks the browser to do a new <br> HTTP GET request to the address defined in the header's Location - the address notes.'
 
