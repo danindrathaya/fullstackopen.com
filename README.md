@@ -1,7 +1,7 @@
 # fullstackopen.com
 fullstackopen.com exercises
 
-Muhammad Danindra Athaya - 120510233010
+    Muhammad Danindra Athaya - 120510233010
 
 # 0.4
 Create a similar diagram depicting the situation where the user creates a new note on the page
